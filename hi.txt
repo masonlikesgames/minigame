@@ -1,0 +1,2 @@
+Hey Mason, this is a pull request. Basically, someone is asking to contribute to your repo. 
+You can review it, and decide whether to merge (accept) the changes or not.  
