@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
         {
             gameHasEnded = true;
             Debug.Log(SceneManager.GetActiveScene().name);
+            // Loads scene again with a delay
             Invoke("Restart", restartDelay);
         }
     }
